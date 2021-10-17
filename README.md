@@ -1,6 +1,6 @@
 # mapbox
 
-![alt text](https://github.com/taishiwalden/mapbox/issues/1>) 
+<img width="1440" alt="Screen Shot 2021-10-16 at 6 36 49 PM" src="https://user-images.githubusercontent.com/75241036/137606839-e186c46f-f41c-4107-a766-9e338b03c2b9.png">
 
 Template for creating a simple interactive 3D map using MapBox SDK
 
